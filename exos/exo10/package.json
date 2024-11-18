@@ -9,6 +9,7 @@
   "author": "me",
   "license": "ISC",
   "dependencies": {
+    "exo10": "file:",
     "express": "^4.21.1"
   }
 }
