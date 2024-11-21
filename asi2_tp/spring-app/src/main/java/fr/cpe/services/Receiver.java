@@ -22,5 +22,8 @@ public class Receiver {
         log.info(personne);
 
         // TODO
+        personne.setSpring("OK");
+
+        sender.sendMessage(personne);
     }
 }
